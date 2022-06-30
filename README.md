@@ -1,4 +1,13 @@
 ### Hi there 👋
+## I am Kay Cee.. a Software Engineer. Pleased to make your aquaintance
+
+- 🔭 I’m currently working on projects for my portfolio
+- 🌱 I’m currently learning C
+- 👯 I’m looking to collaborate on freelance projects
+- 🤔 I’m looking for help with getting new gigs
+- 💬 Ask me about my passions
+- 📫 How to reach me: coming soon
+- ⚡ Fun fact: I love reading.. praying and playing football
 
 <!--
 **sekaycee/sekaycee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
