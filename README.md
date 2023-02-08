@@ -15,8 +15,8 @@ Started off with the Microsoft ecosystem.. having been introduced to it via an I
 * 🧠  I'm always learning C with its quirks
 * ⚡  Reading lightnovels is my favorite pastime
 
-### Skills
 
+### Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -54,12 +54,15 @@ Started off with the Microsoft ecosystem.. having been introduced to it via an I
 
 <p align="left"> <a href="https://www.github.com/sekaycee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://sekaycee.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kay-0-cee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sekaycee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+
 ### Badges
+
 #### My GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sekaycee&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=sekaycee&theme=github-dark-blue&border_radius=5)](https://git.io/streak-stats)
+[![GitHub streak](https://streak-stats.demolab.com?user=sekaycee&theme=github-dark-blue&border_radius=5)](https://git.io/streak-stats)
 
 ### Support Me
 
-[![Support Me](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png?width=200)](https://www.buymeacoffee.com/kay.cee)
+If you like my work.. please do spare a ⭐. If you love my work.. you can surely
+<a href="https://www.buymeacoffee.com/kay.cee"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
