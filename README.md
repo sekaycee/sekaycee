@@ -55,12 +55,12 @@ Started off with the Microsoft ecosystem.. having been introduced to it via an I
 <p align="left"> <a href="https://www.github.com/sekaycee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://sekaycee.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kay-0-cee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sekaycee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
-
-<b>My GitHub Stats</b>
+#### My GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sekaycee&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=sekaycee&theme=github-dark-blue&border_radius=5)](https://git.io/streak-stats)
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/kay.cee"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+[![Support Me](https://www.buymeacoffee.com/kay.cee)](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)
