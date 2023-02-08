@@ -58,7 +58,8 @@ Started off with the Microsoft ecosystem.. having been introduced to it via an I
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sekaycee"><img src="https://github-readme-stats.vercel.app/api?username=sekaycee&show_icons=true&hide=&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="sekaycee's GitHub stats" /></a>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sekaycee&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sekaycee&theme=github-dark-blue&border_radius=5)](https://git.io/streak-stats)
 
 ### Support Me
 
