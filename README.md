@@ -5,7 +5,9 @@ Software Engineer and Writer
 ----------------------------
 
 I started off with the Microsoft ecosystem.. having been introduced to it via an Immersion bootcamp held by CCHUB in partnership with Microsoft. About six years ago.. I adopted the MERN stack.. further broadening my array of skills. Last year.. I was opportuned to be accepted into the SE program by ALX.. which have further helped to hone my skills as a burgeoning Software Engineer.
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 * 🌍  I'm based in Lagos
 * 🖥️  See my portfolio at [My Webspace](http://sekaycee.github.io)
 * ✉️  You can contact me at [se.kaycee@gmail.com](mailto:se.kaycee@gmail.com)
