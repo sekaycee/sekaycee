@@ -62,4 +62,4 @@ Started off with the Microsoft ecosystem.. having been introduced to it via an I
 
 ### Support Me
 
-[![Support Me](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/kay.cee)
+[![Support Me](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png?width=200)](https://www.buymeacoffee.com/kay.cee)
