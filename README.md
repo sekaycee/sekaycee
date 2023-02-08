@@ -1,19 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kay Cee
+Hi 👋 My name is Kay Cee
 ===============================================================================================================================
 
 Software Engineer and Writer
 ----------------------------
 
-I started off with the Microsoft ecosystem.. having been introduced to it via an Immersion bootcamp held by CCHUB in partnership with Microsoft. About six years ago.. I adopted the MERN stack.. further broadening my array of skills. Last year.. I was opportuned to be accepted into the SE program by ALX.. which have further helped to hone my skills as a burgeoning Software Engineer.
+Started off with the Microsoft ecosystem.. having been introduced to it via an Immersion bootcamp held by CCHUB in partnership with Microsoft. About six years ago.. I adopted the MERN stack.. further broadening my array of skills. Last year.. I was accepted into the SE program by ALX.. which have further helped to hone my skills as a burgeoning Software Engineer
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=sekaycee&color=green)
 
-* 🌍  I'm based in Lagos
+* 🗺️  I'm based in Lagos
 * 🖥️  See my portfolio at [My Webspace](http://sekaycee.github.io)
-* ✉️  You can contact me at [se.kaycee@gmail.com](mailto:se.kaycee@gmail.com)
+* ✉️   You can contact me at [se.kaycee@gmail.com](mailto:se.kaycee@gmail.com)
 * 🚀  I'm currently working on [Golde](http://github.com/sekaycee/golde)
-* 🧠  I'm learning C
-* ⚡  Reading light novels is my favorite pastime
+* 🧠  I'm always learning C with its quirks
+* ⚡  Reading lightnovels is my favorite pastime
 
 ### Skills
 
