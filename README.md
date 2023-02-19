@@ -12,8 +12,8 @@ Started off with the Microsoft ecosystem.. having been introduced to it via an I
 * 🖥️  See my portfolio at [My Webspace](http://sekaycee.github.io)
 * ✉️   You can contact me at [se.kaycee@gmail.com](mailto:se.kaycee@gmail.com)
 * 🚀  I'm currently working on [Golde](http://github.com/sekaycee/golde)
-* 🧠  I'm always learning C with its quirks
-* ⚡  Reading lightnovels is my favorite pastime
+* 🧠  I enjoy learning and using C with all its quirks
+* ⚡  Listening podcasts is my favorite pastime
 
 
 ### Skills
@@ -67,3 +67,5 @@ Started off with the Microsoft ecosystem.. having been introduced to it via an I
 If you like my work.. please do spare a ⭐. If you love my work.. you can surely
 
 <a href="https://www.buymeacoffee.com/kay.cee"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+### Note to self.. Don't forget to trust God
