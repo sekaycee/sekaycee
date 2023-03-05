@@ -1,5 +1,5 @@
 Hi 👋 My name is Kay Cee
-===============================================================================================================================
+========================
 
 Software Engineer and Writer
 ----------------------------
@@ -8,12 +8,12 @@ Started off with the Microsoft ecosystem.. having been introduced to it via an I
 
 ![](https://komarev.com/ghpvc/?username=sekaycee&color=green)
 
-* 🗺️  I'm based in Lagos
-* 🖥️  See my portfolio at [My Webspace](http://sekaycee.github.io)
-* ✉️   You can contact me at [se.kaycee@gmail.com](mailto:se.kaycee@gmail.com)
+* 🗺️  I'm based in Lagos.. Nigeria
+* 🖥️  Check out my portfolio [here](http://sekaycee.github.io)
+* ✉️   You can contact me @ [my email](mailto:se.kaycee@gmail.com)
 * 🚀  I'm currently working on [Golde](http://github.com/sekaycee/golde)
-* 🧠  I enjoy learning and using C with all its quirks
-* ⚡  Listening podcasts is my favorite pastime
+* 🧠  I enjoy learning and using C.. with all its quirks
+* ⚡  Listening to podcasts.. is my favorite past-time
 
 
 ### Skills
@@ -56,7 +56,6 @@ Started off with the Microsoft ecosystem.. having been introduced to it via an I
 
 
 ### Badges
-
 #### My GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sekaycee&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -68,4 +67,6 @@ If you like my work.. please do spare a ⭐. If you love my work.. you can surel
 
 <a href="https://www.buymeacoffee.com/kay.cee"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-### Note to self.. Don't forget to trust God
+### Note to self... 
+
+Trust in the Lord with all your heart.. and lean not on your understanding. In all your ways acknowledge Him.. and He'll direct your path
